@@ -10,7 +10,8 @@
 
   ## Apresentação da primeira sprint
 
-  #### [Tabela Dinâmica Excel][apl]: 
-  
-  
-  [apl]:https://fatecspgov-my.sharepoint.com/:x:/r/personal/pedro_lourenco_fatec_sp_gov_br/Documents/Exporta%C3%A7%C3%A3o%20e%20Importa%C3%A7%C3%A3o%20-%20Levantamento%20geral%201.xlsx?d=wcafadb9a29ae4dbba3d2929104e3447d&csf=1&web=1&e=e83n
+  #### [Tabela Dinâmica Excel]
+
+  <div align="center"
+  <img src="https://user-images.githubusercontent.com/129632721/230426621-5f6cc701-0247-4bf7-80f6-767b09796c3b.jpeg" widht="500px" />
+  </div>
