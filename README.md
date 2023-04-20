@@ -46,9 +46,9 @@ analisaremos também as principais origens e destinos desses produtos.
 | André Luis | Dev Team | 
 | Denner Miguel | Dev Team | 
 | Larissa Marianna | Dev Team |
-| Marcos Rabelo | Product Owner | 
-| Matheus Leandro | Scrum Master | 
-| Pedro Luís | Dev Team | 
+| Marcos Rabelo | Dev Team | 
+| Matheus Leandro | Product Owner | 
+| Pedro Luís | Scrum Master | 
 | Steffany Caroline | Dev Team | 
 
 <span id="cronograma-das-sprints">
