@@ -25,9 +25,9 @@ Chegar no mais alto patamar do mercado de trabalho, analisando sempre a melhor s
 
 ## Objetivos
 O projeto tem como finalidade de analisar e caracterizar os dados coletados relacionados às importações e exportações das principais cadeias produtivas, na
-região metropolitana do vale do paraíba e litoral norte.
+região metropolitana do Vale do Paraíba e Litoral Norte.
 
-Assim,  a movimentação dos principais materiais e produtos e quantidade em toneladas e valores FOB dentro das cidades da RM Vale será mostrada, atrelado a isso
+Assim, a movimentação dos principais materiais e produtos e quantidade em toneladas e valores FOB dentro das cidades da RMVale será mostrada, atrelado a isso
 analisaremos também as principais origens e destinos desses produtos.
 
 ## Ferramentas
