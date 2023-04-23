@@ -3,7 +3,7 @@ Esse repositório tem como objetivo documentar os processos referentes à produ�
 
 ## ZephyrLog
 
-<img src="https://user-images.githubusercontent.com/129632721/233820996-66c8c149-7462-4267-9817-bed5889cb68a.jpg" width="350px" />
+<img src="https://user-images.githubusercontent.com/129632721/233820996-66c8c149-7462-4267-9817-bed5889cb68a.jpg" width="300px" />
 
 ## Missão:
 Oferecer soluções práticas e rápidas com a maior competência através de nosso conhecimento e experiências de vida e profissional. 
