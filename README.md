@@ -1,8 +1,8 @@
 ## Grupo-API-Cadeias Produtivas
 Esse repositório tem como objetivo documentar os processos referentes à produção do projeto API no segmento Cadeias Produtivas da RMVale, métodos para a produção deste projeto são baseados no modelo Scrum.
 
-  <div align="center">
-<img src="https://user-images.githubusercontent.com/129632721/233821131-4af3b14d-4700-4870-a497-9b9762915d42.jpg" width="500px" />
+ ## <div align="center">
+<img src="https://user-images.githubusercontent.com/129632721/233821131-4af3b14d-4700-4870-a497-9b9762915d42.jpg" width="350px" />
 </div>
 
 ## Missão:
