@@ -4,7 +4,7 @@ Esse repositório tem como objetivo documentar os processos referentes à produ�
 ## ZephyrLog
 
   <div align="center">
-<img src="https://user-images.githubusercontent.com/129632721/233820507-ebbda67a-529e-4fc2-90e4-f1964b71d2df.jpg" width="700px" />
+<img src="https://user-images.githubusercontent.com/129632721/233820507-ebbda67a-529e-4fc2-90e4-f1964b71d2df.jpg" width="350px" />
 </div>
 
 ## Missão:
