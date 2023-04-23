@@ -2,11 +2,11 @@
 ## INTRODUÇÃO
 
  Cada sprint é exigida do grupo determinados elementos para avaliação dentre as quais:
- - Apresentação da cadeia produtiva;
+ - Identificação das principais cadeias produtivas da RMVale;
 
- - Protótipo de interação de dados que permita caracterizar a cadeia produtiva;
+ - Identificação dos principais produtos importados e exportados;
 
- - Slide de apresentação
+ - Mapa regional indicando os principais pólos geradores de demanda de pordução por cadeia produtiva;
 
   ## Apresentação da primeira sprint
 
