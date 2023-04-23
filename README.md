@@ -1,9 +1,9 @@
 ## Grupo-API-Cadeias Produtivas
 Esse repositório tem como objetivo documentar os processos referentes à produção do projeto API no segmento Cadeias Produtivas da RMVale, métodos para a produção deste projeto são baseados no modelo Scrum.
 
-## ZephyrLog
-
-<img src="https://user-images.githubusercontent.com/129632721/233820996-66c8c149-7462-4267-9817-bed5889cb68a.jpg" width="300px" />
+  <div align="center">
+<img src="https://user-images.githubusercontent.com/129632721/233821131-4af3b14d-4700-4870-a497-9b9762915d42.jpg" width="500px" />
+</div>
 
 ## Missão:
 Oferecer soluções práticas e rápidas com a maior competência através de nosso conhecimento e experiências de vida e profissional. 
