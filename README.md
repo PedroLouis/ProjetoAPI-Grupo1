@@ -3,7 +3,7 @@ Esse repositório tem como objetivo documentar os processos referentes à produ�
 
  ## 
    <div align="center">
-<img src="https://user-images.githubusercontent.com/129632721/233821322-866c920e-4e6d-4f28-834e-12da9966de16.png" width="350px" />
+<img src="https://github.com/PedroLouis/ProjetoAPI-Grupo1/assets/129632721/449702e2-cd98-4488-bb20-ae4c2c7bf655" width="350px" />
 </div>
 
 ## Missão:
