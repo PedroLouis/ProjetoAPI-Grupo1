@@ -79,7 +79,7 @@
 </div>
 
 <div align="center">
-<img src="https://github.com/PedroLouis/ProjetoAPI-Grupo1/assets/129632721/c05a1c3a-4789-4734-9201-856ba8055890" width="700px" />
+<img src="https://github.com/PedroLouis/ProjetoAPI-Grupo1/assets/129632721/c0ee2dec-ccbb-47fe-97d1-248d126612a5" width="700px" />
 </div>
 
 <div align="center">
