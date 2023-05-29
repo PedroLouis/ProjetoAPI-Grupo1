@@ -6,7 +6,7 @@
 
  - Aplicativo em Power Apps que permita resumir os dados de exportação e importação de cada município;
 
-  ## Apresentação da primeira sprint
+  ## Apresentação da Segunda Sprint
 
   #### DashBoard Exportação
 

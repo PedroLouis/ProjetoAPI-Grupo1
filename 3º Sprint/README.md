@@ -2,11 +2,9 @@
 ## INTRODUÇÃO
 
  Cada sprint é exigida do grupo determinados elementos para avaliação dentre as quais:
- - Estrutura Relacional de dados;
+ - Dashboard que permita avaliar a evolução das importações e exportações da RMVALE;
 
- - Aplicativo em Power Apps que permita resumir os dados de exportação e importação de cada município;
-
-  ## Apresentação da primeira sprint
+  ## Apresentação da Terceira Sprint
 
   #### DashBoard Exportação
 
