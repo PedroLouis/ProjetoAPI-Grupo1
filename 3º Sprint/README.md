@@ -63,5 +63,33 @@
 #### Dashboard
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/129632721/233820680-22018e2c-409a-4a4e-8ff3-b306202f4bf1.jpeg" width="700px" />
+<img src="https://github.com/PedroLouis/ProjetoAPI-Grupo1/assets/129632721/7d319ae7-59e4-4ca0-951b-6a2bdf0570ca" width="700px" />
+</div>
+
+<div align="center">
+<img src="https://github.com/PedroLouis/ProjetoAPI-Grupo1/assets/129632721/3eb0d41c-c1d0-44f5-9425-ade8cf8b0490" width="700px" />
+</div>
+
+<div align="center">
+<img src="https://github.com/PedroLouis/ProjetoAPI-Grupo1/assets/129632721/a7fc202d-a93d-452b-ac53-fb0f470ad75d" width="700px" />
+</div>
+
+<div align="center">
+<img src="https://github.com/PedroLouis/ProjetoAPI-Grupo1/assets/129632721/3d3d1a5a-0da1-4792-9364-e85e7bf20043" width="700px" />
+</div>
+
+<div align="center">
+<img src="https://github.com/PedroLouis/ProjetoAPI-Grupo1/assets/129632721/c05a1c3a-4789-4734-9201-856ba8055890" width="700px" />
+</div>
+
+<div align="center">
+<img src="https://github.com/PedroLouis/ProjetoAPI-Grupo1/assets/129632721/9c2ad513-3290-464c-b21e-54b463f3501e" width="700px" />
+</div>
+
+<div align="center">
+<img src="https://github.com/PedroLouis/ProjetoAPI-Grupo1/assets/129632721/1b32b33c-e388-4ac9-a784-c00ea0b58a3a" width="700px" />
+</div>
+
+<div align="center">
+<img src="https://github.com/PedroLouis/ProjetoAPI-Grupo1/assets/129632721/a4e86f24-f591-4a03-bac3-dc963e1964fc" width="700px" />
 </div>
