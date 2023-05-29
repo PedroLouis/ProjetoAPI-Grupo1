@@ -67,4 +67,4 @@ AAS
 | 01 | 03/04/2023 | ✔️ Concluída    | [Relatório](https://github.com/PedroLouis/ProjetoAPI-Grupo1/tree/main/1º%20Sprint/Relatório) |
 | 02 | 24/04/2023 | ✔️ Concluída    | [Relatório] |
 | 03 | 29/05/2023 | ✔️ Concluída | [Relatório] |
-| 04 | 05/06/2023 | 🚧 Em andamento | [Relatório] |
+| 04 | 12/06/2023 | 🚧 Em andamento | [Relatório] |
