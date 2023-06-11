@@ -43,7 +43,7 @@ analisaremos também as principais origens e destinos desses produtos.
 ## 5. VSCode
 
 ## 6. CANVA
-AAS
+
 ## Integrantes:
 
 |    Nome     | Função    
@@ -62,9 +62,9 @@ AAS
 
 <div align="center">
 
-| Sprint | Previsão de entrega | Status           | Histórico |
-|:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 03/04/2023 | ✔️ Concluída    | [Relatório](https://github.com/PedroLouis/ProjetoAPI-Grupo1/tree/main/1º%20Sprint/Relatório) |
-| 02 | 24/04/2023 | ✔️ Concluída    | [Relatório] |
-| 03 | 29/05/2023 | ✔️ Concluída | [Relatório] |
-| 04 | 12/06/2023 | 🚧 Em andamento | [Relatório] |
+| Sprint | Previsão de entrega | Status           |
+|:--:|:----------:|:-------------------|
+| 01 | 03/04/2023 | ✔️ Concluída    |
+| 02 | 24/04/2023 | ✔️ Concluída    |
+| 03 | 29/05/2023 | ✔️ Concluída |
+| 04 | 12/06/2023 | ✔️ Concluída |
